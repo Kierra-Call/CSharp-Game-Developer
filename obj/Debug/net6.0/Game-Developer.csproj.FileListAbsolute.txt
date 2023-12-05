@@ -1,0 +1,15 @@
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.csproj.AssemblyReference.cache
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.AssemblyInfoInputs.cache
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.AssemblyInfo.cs
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.csproj.CoreCompileInputs.cache
+F:\CodingDojo\C#\Assignments\Game-Developer\bin\Debug\net6.0\Game-Developer.exe
+F:\CodingDojo\C#\Assignments\Game-Developer\bin\Debug\net6.0\Game-Developer.deps.json
+F:\CodingDojo\C#\Assignments\Game-Developer\bin\Debug\net6.0\Game-Developer.runtimeconfig.json
+F:\CodingDojo\C#\Assignments\Game-Developer\bin\Debug\net6.0\Game-Developer.dll
+F:\CodingDojo\C#\Assignments\Game-Developer\bin\Debug\net6.0\Game-Developer.pdb
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.dll
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\refint\Game-Developer.dll
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.pdb
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\Game-Developer.genruntimeconfig.cache
+F:\CodingDojo\C#\Assignments\Game-Developer\obj\Debug\net6.0\ref\Game-Developer.dll
